@@ -14,7 +14,7 @@ Ext.define('eKiosk.view.Pos.Preset.Sandwiches', {
 		align: 'stretchmax',
 		padding: '0 0 0 10',
 		pack: 'start'
-	},
+	},dddddddddddddddddddddddddddd
 	items: [
 		{
 			xtype: 'container',
